@@ -1,7 +1,7 @@
 ## Repositório Linguagem R
 
 <p align="justify">
-Neste repositório, apresento minhas práticas com a linguagem R com aplicações em análise de dados com aprendizado de máquina, estatística e matemática. Minhas práticas são feitas, na maioria das vezes, na plataforma Jupyter Notebook, mas utilizo também em uma frequência menor o RStudio.
+Neste repositório, apresento minhas práticas com a linguagem R e sua aplicação em análise de dados e aprendizado de máquina, estatística e matemática. Minhas práticas são feitas, na maioria das vezes, na plataforma Jupyter Notebook, mas utilizo também em menor frequência o RStudio.
 </p>
 
 #### 🖥️ Tecnologias e ferramentas utilizadas neste repositório:
